@@ -1,5 +1,7 @@
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)
 <h1 align="center">Hi 👋, I'm Suryansh Jaiswal</h1>
 <h3 align="center">A passionate developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.436be1cf99ccdc2b2a85ddac79b952f0?rik=HalCZYdEMVBy2g&riu=http%3a%2f%2fwww.ipvision.ca%2fimg%2fsolution%2fblockchain.gif&ehk=HaTa3ZSFB8xISFHBMPI%2b6W7bpVkZmcxaz8X%2b8%2bmOxK4%3d&risl=&pid=ImgRaw&r=0">
 
 - 🔭 I’m currently working on **Supply chain management using Blockchain**
 
