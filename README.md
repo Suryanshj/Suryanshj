@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **suryanshjaiswal37@gmail.com**
 
-- 📄 Know about my experiences [My Resume](http://bit.ly/suryanshj-resume)
+- 📄 Know about my experiences **[My Resume](http://bit.ly/suryanshj-resume)**
 
-- 💼 Portfolio [My Portfolio](https://suryansh-jaiswal-portfolio.odoo.com/))
+- 💼 Portfolio **[My Portfolio](https://suryansh-jaiswal-portfolio.odoo.com/))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
