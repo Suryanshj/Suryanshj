@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [http://bit.ly/suryanshj-resume](http://bit.ly/suryanshj-resume)
 
+- 💼 Portfolio [http://bit.ly/suryanshj-resume](https://suryansh-jaiswal-portfolio.odoo.com/))
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suryanshj" target="blank"><img align="center" src="https://www.svgrepo.com/show/521725/linkedin.svg" alt="suryanshj" height="30" width="40" /></a>
