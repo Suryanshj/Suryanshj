@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences **[My Resume](http://bit.ly/suryanshj-resume)**
 
-- 💼 Portfolio **[My Portfolio](https://www.suryansh-jaiswal.me/)/))**
+- 💼 Portfolio **[My Portfolio](https://www.suryansh-jaiswal.me)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
